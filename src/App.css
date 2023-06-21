@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background: url(/src/background.jpg) no-repeat center center fixed;
+  background-color: salmon;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
