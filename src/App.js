@@ -20,9 +20,11 @@ const arrival = new Date("2023-08-16").getTime();
 
 
         <div style = {{display:'flex'}}>
-        <img src={fun} alt="arrest..." style = {{height: '250px', padding:'20px'}}/>
-        <img src={fun} alt="arrest..." style = {{height: '250px', padding:'20px'}}/>
-        <img src={fun} alt="sad..." style = {{height: '350px', padding:'10px', transform:'rotate(30deg)', translate: '-70px'}}/>
+        <img src={fun} alt="fun..." style = {{height: '250px', padding:'20px'}}/>
+        <img src={fun} alt="fun..." style = {{height: '250px', padding:'20px'}}/>
+        <img src={fun} alt="fun..." style = {{height: '250px', padding:'20px'}}/>
+        <img src={fun} alt="fun..." style = {{height: '250px', padding:'20px'}}/>
+
         </div>
                  
       </body>
