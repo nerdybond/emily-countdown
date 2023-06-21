@@ -1,19 +1,21 @@
 .App {
   text-align: center;
+  background: url(/src/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100%;
 }
 
-
 .container {
-  background-image: url(/src/background.jpg);
-  background-size: cover;
-  min-height: 1vh;
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
   font-size: calc(10px + 2vmin);
   color: white;
   z-index: 1;
-  
+
 }
 
 .title{  
